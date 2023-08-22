@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Dataset",
+			"path": "../../OneDrive/Documents/Dataset"
+		}
+	],
+	"settings": {
+		"dataworkspace.excludedProjects": [
+			"Dataset.sqlproj"
+		]
+	}
+}
